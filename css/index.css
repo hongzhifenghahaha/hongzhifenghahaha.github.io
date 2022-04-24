@@ -517,6 +517,7 @@ blockquote p {
 }
 .side-card .card-wrap {
   padding-left: 10px;
+  text-align: center;
 }
 .side-card img {
   width: 100%;
@@ -535,7 +536,7 @@ blockquote p {
 .author-avatar img {
   width: 100%;
   max-width: 110px;
-  border-radius: 50%;
+/*border-radius: 50%;*/
 }
 .author-discrip {
   display: table-cell;
@@ -714,6 +715,7 @@ blockquote p {
   }
   .side-card .card-wrap {
     padding: 10px 10px 10px 17px;
+    margin: 0 auto;
   }
   .sticky {
     clear: both;
